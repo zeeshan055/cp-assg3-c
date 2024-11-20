@@ -1,7 +1,7 @@
 /*
   Roll No.: 15
-  Student Name: Mohammed Aamir Khan
-  Program Title: WAP to creat Body Mass Index with feet and kg units 
+  Student Name: Mohammed Aamir Sameer Khan
+  Program Title: WAP to create Body Mass Index calculator with feet and kg units for fitness of the user .
 
   Task Given By: 
     - Roll No. of Assignee: 33
@@ -11,8 +11,8 @@
 
 // Function to calculate BMI using pointers
 float calculateBMI(float *weight, float *height) {
-    return *weight / (*height * *height); //  Bmi=   kg
-} //                                                 m*m
+    return *weight / (*height * *height); //  Bmi=   kg /m*m
+} //                                                
 
 // Function to determine BMI category
 void bmiCategory(float *bmi) {
