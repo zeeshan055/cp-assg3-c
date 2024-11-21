@@ -1,3 +1,12 @@
+/*
+  Roll No.:58
+  Student Name:Mohd Hamza Siddiqui
+  Program Title: matrix operation using 2d array
+
+  Task Given By: 
+    - Roll No. of Assignee:59
+    - Assignee Name:Rehan Qureshi
+*/
 #include <stdio.h>
 #define MAX 10  // Maximum size of the matrix
 
@@ -113,3 +122,88 @@ int main() {
     return 0;
 }
 
+
+/*
+output:
+Enter the number of rows and columns for Matrix 1: 
+2 2
+Enter elements of the matrix:
+Enter element [1][1]: 1
+Enter element [1][2]: 2
+Enter element [2][1]: 3
+Enter element [2][2]: 4
+
+Enter the number of rows and columns for Matrix 2: 
+2 2
+Enter elements of the matrix:
+Enter element [1][1]: 5
+Enter element [1][2]: 6
+Enter element [2][1]: 7
+Enter element [2][2]: 8
+
+Choose the operation to perform:
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+Enter your choice: 1
+
+Matrix Addition Result:
+6       8
+10      12
+
+
+
+Enter the number of rows and columns for Matrix 1: 
+2 2
+Enter elements of the matrix:
+Enter element [1][1]: 1
+Enter element [1][2]: 2
+Enter element [2][1]: 3
+Enter element [2][2]: 4
+
+Enter the number of rows and columns for Matrix 2: 
+2 2
+Enter elements of the matrix:
+Enter element [1][1]: 5
+Enter element [1][2]: 6
+Enter element [2][1]: 7
+Enter element [2][2]: 8
+
+Choose the operation to perform:
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+Enter your choice: 2
+
+Matrix Subtraction Result:
+-4      -4
+-4      -4
+
+
+
+Enter the number of rows and columns for Matrix 1: 
+2 2
+Enter elements of the matrix:
+Enter element [1][1]: 1
+Enter element [1][2]: 2
+Enter element [2][1]: 3
+Enter element [2][2]: 4
+
+Enter the number of rows and columns for Matrix 2: 
+2 2
+Enter elements of the matrix:
+Enter element [1][1]: 5
+Enter element [1][2]: 6
+Enter element [2][1]: 7
+Enter element [2][2]: 8
+
+Choose the operation to perform:
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+Enter your choice: 3
+
+Matrix Multiplication Result:
+19      22
+43      50
+*/
