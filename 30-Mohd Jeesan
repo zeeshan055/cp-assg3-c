@@ -1,8 +1,12 @@
-// Title: Leap Year Checker
-// Name: Mohd Jeesan Mansoori
-// Division: C-2
-// Partner: Name: Aditya Chaurasiya
-//          Roll no: 28    UIN: 241P029
+/*
+  Roll No.: 30
+  Student Name: Mohd Jeesan Shafiq Ahmad Mansoori
+  Program Title: WAP to find a Leap Year Checker
+
+  Task Given By:
+    - Roll No. of Assignee: 28
+    - Assignee Name: Aditya Chaurasiya
+*/
 
 #include <stdio.h>
 
